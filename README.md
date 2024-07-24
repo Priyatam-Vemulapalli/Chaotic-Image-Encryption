@@ -1,0 +1,4 @@
+FTP Server and Client with file transfer functionalities using Java. Run Server.java and Client.java for testing, supporting both upload and download operations with easy-to-follow instructions.
+
+The codes of the FTP server and client are placed in their specific folders. The files are sent in a series of chunks to transfer the larger files. Testing assistance: Run both Server.java and Client.java in separate terminals. Start the server first and then connect the client with it. While establishing the connection with the server, give the port number in args when running the client.java -> java Client 8888 Once the connection is established you will be given two choices of operations. Enter the numerical of the operation you want followed by the file name or path that you want to transfer. 
+
